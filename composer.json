@@ -1,5 +1,5 @@
 {
-    "name": "eaudeweb/base-profile",
+    "name": "eaudeweb/drupal-template-profile",
     "description": "drupal theme demo install profile",
     "type": "drupal-profile",
     "license": "GPL-2.0+",
