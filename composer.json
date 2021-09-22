@@ -1,0 +1,15 @@
+{
+    "name": "eaudeweb/base-profile",
+    "description": "drupal theme demo install profile",
+    "type": "drupal-profile",
+    "license": "GPL-2.0+",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "repositories": [
+        {
+            "type":"composer",
+            "url":"https://packages.drupal.org/8"
+        
+        }
+    ]
+}

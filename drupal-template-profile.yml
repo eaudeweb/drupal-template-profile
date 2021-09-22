@@ -1,0 +1,5 @@
+name: Drupal Template Profile
+type: profile
+description: 'Eau de Web Drupal template profile'
+core: '^8.8 || ^9'
+dependencies:
