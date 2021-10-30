@@ -1,5 +1,5 @@
 {
-    "name": "drupal/edwp",
+    "name": "eaudeweb/edwp",
     "description": "Project template for Drupal 9 projects with a relocated document root",
     "type": "drupal-profile",
     "license": "GPL-2.0-or-later",
