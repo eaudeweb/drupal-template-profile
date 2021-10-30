@@ -1,0 +1,61 @@
+name: Eau De Web base profile
+type: profile
+description: 'Base profile for Eau de Web projects'
+version: VERSION
+core_version_requirement: ^9
+install:
+  - admin_toolbar
+  - admin_toolbar_links_access_filter
+  - admin_toolbar_tools
+  - big_pipe
+  - block
+  - block_content
+  - breakpoint
+  - captcha
+  - ckeditor
+  - ckeditor_accordion
+  - ckeditor_config
+  - color
+  - config
+  - contextual
+  - datetime
+  - dblog
+  - dynamic_page_cache
+  - editor
+  - editor_advanced_link
+  - editor_file
+  - field_group
+  - field_ui
+  - file
+  - image
+  - linkchecker
+  - mail_login
+  - mailsystem
+  - media
+  - media_library
+  - menu_item_extras
+  - menu_link_attributes
+  - menu_link_content
+  - menu_ui
+  - metatag
+  - node
+  - options
+  - pathauto
+  - page_cache
+  - path
+  - quickedit
+  - recaptcha
+  - redirect
+  - responsive_image
+  - role_hierarchy
+  - shortcut
+  - smtp
+  - taxonomy
+  - toolbar
+  - views
+  - webform
+  - webform_ui
+  - xmlsitemap
+themes:
+  - seven
+  - stark

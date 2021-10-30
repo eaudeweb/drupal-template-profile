@@ -1,0 +1,7 @@
+invert: 0
+strict: 0
+non_hierarchical_roles:
+  anonymous: 0
+  authenticated: 0
+  webmaster: 0
+  system: 0

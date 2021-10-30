@@ -1,0 +1,11 @@
+uuid: 31aec193-9810-4ad6-9c7f-502d712429f4
+langcode: en
+status: true
+dependencies:
+  module:
+    - webform
+id: webform_submission_make_unsticky_action
+label: 'Unstar/unflag submission'
+type: webform_submission
+plugin: webform_submission_make_unsticky_action
+configuration: {  }

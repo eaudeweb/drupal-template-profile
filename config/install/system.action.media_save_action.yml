@@ -1,0 +1,11 @@
+uuid: 328d44ba-25ae-44c8-b802-98fa43d80dd1
+langcode: en
+status: true
+dependencies:
+  module:
+    - media
+id: media_save_action
+label: 'Save media'
+type: media
+plugin: 'entity:save_action:media'
+configuration: {  }

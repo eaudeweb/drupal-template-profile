@@ -1,0 +1,16 @@
+uuid: e8ec6540-c46f-40dc-8719-9e305411c99c
+langcode: en
+status: true
+dependencies:
+  enforced:
+    module:
+      - webform
+id: marital_status
+label: 'Marital status'
+category: Demographic
+likert: false
+options: |
+  Single: Single
+  Married: Married
+  Divorced: Divorced
+  Widowed: Widowed

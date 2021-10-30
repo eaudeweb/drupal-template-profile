@@ -1,0 +1,10 @@
+uuid: 63c50e45-b996-4cfa-bb2c-f6360fe22e01
+langcode: en
+status: true
+dependencies: {  }
+id: node
+label: Content
+tags:
+  title: '[node:title] | [site:name]'
+  description: '[node:summary]'
+  canonical_url: '[node:url]'

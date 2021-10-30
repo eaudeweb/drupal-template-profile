@@ -1,0 +1,7 @@
+uuid: a6ae7f56-d8a5-420e-b071-f6d8fdbc0ce1
+langcode: en
+status: false
+dependencies: {  }
+formId: user_register_form
+captchaType: default
+label: null

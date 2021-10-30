@@ -1,0 +1,11 @@
+uuid: eaa8eced-190e-45ec-9ec1-51407f87a984
+langcode: en
+status: true
+dependencies: {  }
+id: authenticated
+label: 'Authenticated user'
+weight: -8
+is_admin: false
+permissions:
+  - 'access content'
+  - 'view media'

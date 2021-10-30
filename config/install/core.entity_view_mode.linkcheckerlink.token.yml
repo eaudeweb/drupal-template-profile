@@ -1,0 +1,10 @@
+uuid: 5ba6979f-a7ee-48c7-aa98-2a878856b5be
+langcode: en
+status: true
+dependencies:
+  module:
+    - linkchecker
+id: linkcheckerlink.token
+label: Token
+targetEntityType: linkcheckerlink
+cache: true

@@ -1,0 +1,17 @@
+uuid: 56a7f8b0-5eee-4a12-a7a8-44544040bcda
+langcode: en
+status: true
+dependencies:
+  enforced:
+    module:
+      - webform
+id: likert_would_you
+label: 'Likert: Would You'
+category: Likert
+likert: true
+options: |
+  1: Definitely Not
+  2: Probably Not
+  3: Not Sure
+  4: Probably
+  5: Definitely

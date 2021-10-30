@@ -1,0 +1,12 @@
+uuid: 8eb94766-ff41-4b89-a44f-33217c5dc055
+langcode: en
+status: true
+dependencies:
+  enforced:
+    module:
+      - webform
+id: country_codes
+label: 'Country codes'
+category: Geographic
+likert: false
+options: ''

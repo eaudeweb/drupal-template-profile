@@ -1,0 +1,7 @@
+entity_type_groups:
+  linkcheckerlink:
+    linkcheckerlink:
+      basic: basic
+  user:
+    user:
+      basic: basic
