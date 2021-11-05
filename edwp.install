@@ -23,3 +23,17 @@ function edwp_install() {
   $user->roles[] = 'administrator';
   $user->save();
 }
+
+/**
+ * Implements hook_install_tasks().
+ */
+function edwp_install_tasks(&$install_state) {
+  $tasks = [
+    '\Drupal\edwp\Form\EdwpSettingsForm' => [
+      'display_name' => t('EDWP'),
+      'type' => 'form',
+      '#title' => t('EDWP options')
+    ],
+  ];
+  return $tasks;
+}
