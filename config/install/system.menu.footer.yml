@@ -1,0 +1,8 @@
+uuid: 6ed9aa57-9c0c-4fb2-a774-c2c2efc40671
+langcode: en
+status: true
+dependencies: {  }
+id: footer
+label: 'Footer menu'
+description: 'Site information links shown on all pages'
+locked: true

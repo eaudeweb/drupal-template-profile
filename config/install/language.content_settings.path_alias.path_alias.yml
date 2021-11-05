@@ -1,0 +1,11 @@
+uuid: 27338f1f-a579-4abe-836f-c5d8017d3115
+langcode: en
+status: true
+dependencies:
+  module:
+    - path_alias
+id: path_alias.path_alias
+target_entity_type_id: path_alias
+target_bundle: path_alias
+default_langcode: und
+language_alterable: true

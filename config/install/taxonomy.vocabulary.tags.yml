@@ -1,0 +1,8 @@
+uuid: 67fb0db1-b1d3-42e2-b8a6-48febd14dad3
+langcode: en
+status: true
+dependencies: {  }
+name: Tags
+vid: tags
+description: 'Use your imagination to group site content using free terms. Caution is advised.'
+weight: 0

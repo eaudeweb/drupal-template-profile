@@ -1,0 +1,14 @@
+uuid: 0e06b69c-3841-47fe-9874-b82d9b15371b
+langcode: en
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.news_type
+id: taxonomy_term.news_type.default
+targetEntityType: taxonomy_term
+bundle: news_type
+mode: default
+content: {  }
+hidden:
+  description: true
+  langcode: true

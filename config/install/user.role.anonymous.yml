@@ -1,10 +1,12 @@
-uuid: b50764f0-3b02-4235-8746-da9dad76272f
+uuid: cb2d9464-520e-45fd-a084-ff4fafa6b4e7
 langcode: en
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: TahPEmitGa7P8gct2Hi64ne9LXS9GsN8IpNAbo3vaJ0
 id: anonymous
 label: 'Anonymous user'
-weight: -7
+weight: -6
 is_admin: false
 permissions:
   - 'access content'

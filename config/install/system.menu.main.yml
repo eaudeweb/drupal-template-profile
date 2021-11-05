@@ -1,0 +1,8 @@
+uuid: 7c4e52ad-9dd7-4f29-a97b-32e61c0228d9
+langcode: en
+status: true
+dependencies: {  }
+id: main
+label: 'Main menu'
+description: 'Contains your website main sections'
+locked: true

@@ -1,0 +1,9 @@
+uuid: cea301ca-264d-4887-b0c9-3a8e77d7c078
+langcode: en
+status: true
+dependencies: {  }
+id: fr
+label: French
+direction: ltr
+weight: 1
+locked: false

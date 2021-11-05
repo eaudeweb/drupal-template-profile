@@ -17,6 +17,8 @@ install:
   - ckeditor_config
   - color
   - config
+  - config_translation
+  - content_translation
   - contextual
   - datetime
   - dblog
@@ -28,7 +30,9 @@ install:
   - field_ui
   - file
   - image
+  - language
   - linkchecker
+  - locale
   - mail_login
   - mailsystem
   - media

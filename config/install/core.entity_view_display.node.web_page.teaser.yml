@@ -1,0 +1,31 @@
+uuid: ebadeecb-d0d2-4103-ac69-a58961c96d6c
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.teaser
+    - field.field.node.web_page.body
+    - node.type.web_page
+  module:
+    - text
+    - user
+id: node.web_page.teaser
+targetEntityType: node
+bundle: web_page
+mode: teaser
+content:
+  body:
+    label: hidden
+    type: text_summary_or_trimmed
+    weight: 101
+    settings:
+      trim_length: 600
+    third_party_settings: {  }
+    region: content
+  links:
+    weight: 100
+    settings: {  }
+    third_party_settings: {  }
+    region: content
+hidden:
+  langcode: true

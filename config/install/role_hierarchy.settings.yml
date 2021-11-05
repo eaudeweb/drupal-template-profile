@@ -1,7 +1,10 @@
 invert: 0
 strict: 0
 non_hierarchical_roles:
-  anonymous: 0
-  authenticated: 0
-  webmaster: 0
   system: 0
+  webmaster: 0
+  authenticated: 0
+  anonymous: 0
+  content_manager: 0
+_core:
+  default_config_hash: Yc_ZALIsM5hZB00cJvRW9UFgA8g4mNHiatMj2axaavc

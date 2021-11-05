@@ -1,0 +1,8 @@
+uuid: 29807c9b-8051-4476-9efe-a9b657011ebb
+langcode: en
+status: true
+dependencies: {  }
+name: 'News type'
+vid: news_type
+description: 'Define the categories of news'
+weight: 0

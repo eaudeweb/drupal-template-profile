@@ -1,0 +1,17 @@
+uuid: 3dde2b6b-37a5-49be-a2c1-2ca89ecbd9ed
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus: {  }
+    parent: ''
+name: News
+type: news
+description: 'Bring your latest information to public using the <b>News</b> content'
+help: ''
+new_revision: true
+preview_mode: 0
+display_submitted: false
